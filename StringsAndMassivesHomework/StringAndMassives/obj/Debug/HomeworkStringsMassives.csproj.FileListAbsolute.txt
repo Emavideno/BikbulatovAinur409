@@ -1,0 +1,7 @@
+C:\Users\Fantast\source\repos\lesson_21_11_2024\lesson_21_11_2024\obj\Debug\HomeworkStringsMassives.csproj.AssemblyReference.cache
+C:\Users\Fantast\source\repos\lesson_21_11_2024\lesson_21_11_2024\obj\Debug\HomeworkStringsMassives.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\lesson_21_11_2024\lesson_21_11_2024\obj\Debug\lesson_21_11_2024.exe
+C:\Users\Fantast\source\repos\lesson_21_11_2024\lesson_21_11_2024\obj\Debug\lesson_21_11_2024.pdb
+C:\Users\Fantast\source\repos\lesson_21_11_2024\lesson_21_11_2024\bin\Debug\lesson_21_11_2024.exe.config
+C:\Users\Fantast\source\repos\lesson_21_11_2024\lesson_21_11_2024\bin\Debug\lesson_21_11_2024.exe
+C:\Users\Fantast\source\repos\lesson_21_11_2024\lesson_21_11_2024\bin\Debug\lesson_21_11_2024.pdb
