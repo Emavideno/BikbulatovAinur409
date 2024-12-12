@@ -1,0 +1,14 @@
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\bin\Debug\net8.0\WhoIAmOOP.exe
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\bin\Debug\net8.0\WhoIAmOOP.deps.json
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\bin\Debug\net8.0\WhoIAmOOP.runtimeconfig.json
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\bin\Debug\net8.0\WhoIAmOOP.dll
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\bin\Debug\net8.0\WhoIAmOOP.pdb
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\WhoIAmOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\WhoIAmOOP.AssemblyInfoInputs.cache
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\WhoIAmOOP.AssemblyInfo.cs
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\WhoIAmOOP.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\WhoIAmOOP.dll
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\refint\WhoIAmOOP.dll
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\WhoIAmOOP.pdb
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\WhoIAmOOP.genruntimeconfig.cache
+C:\Users\Fantast\source\repos\WhoIAmOOP\WhoIAmOOP\obj\Debug\net8.0\ref\WhoIAmOOP.dll
