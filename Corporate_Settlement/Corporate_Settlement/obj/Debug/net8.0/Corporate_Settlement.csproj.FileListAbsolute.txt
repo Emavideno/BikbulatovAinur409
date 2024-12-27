@@ -1,0 +1,14 @@
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\bin\Debug\net8.0\Corporate_Settlement.exe
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\bin\Debug\net8.0\Corporate_Settlement.deps.json
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\bin\Debug\net8.0\Corporate_Settlement.runtimeconfig.json
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\bin\Debug\net8.0\Corporate_Settlement.dll
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\bin\Debug\net8.0\Corporate_Settlement.pdb
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\Corporate_Settlement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\Corporate_Settlement.AssemblyInfoInputs.cache
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\Corporate_Settlement.AssemblyInfo.cs
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\Corporate_Settlement.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\Corporate_Settlement.dll
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\refint\Corporate_Settlement.dll
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\Corporate_Settlement.pdb
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\Corporate_Settlement.genruntimeconfig.cache
+C:\Users\Fantast\source\repos\Corporate_Settlement\Corporate_Settlement\obj\Debug\net8.0\ref\Corporate_Settlement.dll
