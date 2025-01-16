@@ -39,7 +39,7 @@ namespace Corporate_Settlement
                 break;
             }
 
-            while (true) // Проверка пути (Можно было сделать, чтобы он проверял можно ли создать там файл, но мне лень)
+            while (true) // Проверка пути
             {
                 Console.Write("Введите путь куда сохранить вывод: ");
                 corpOutputPath = Console.ReadLine();

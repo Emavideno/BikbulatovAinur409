@@ -12,7 +12,9 @@ namespace Corporate_Settlement
         public static void SaveFriendsToCsv()
         {
 
-            string filePath = @"C:\Users\Fantast\source\repos\Corporate_Settlement\friends_data.csv";
+            string filePath = @"friends_data.csv";
+            string absolutePath = Path.GetFullPath(filePath);
+
             using (StreamWriter writer = new StreamWriter(filePath, true))
             {
                 // Если файл новый, записываем заголовки
@@ -27,7 +29,7 @@ namespace Corporate_Settlement
                     writer.WriteLine(line);
                 }
             }
-            Console.WriteLine($"Информация о друзьях сохранена в {filePath}");
+            Console.WriteLine($"Информация о друзьях сохранена в {absolutePath}");
         }
 
         public static void SaveToFile(string filePath)
