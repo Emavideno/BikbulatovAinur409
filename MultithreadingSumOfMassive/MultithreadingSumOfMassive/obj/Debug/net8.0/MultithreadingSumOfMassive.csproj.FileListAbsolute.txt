@@ -1,0 +1,14 @@
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\bin\Debug\net8.0\MultithreadingSumOfMassive.exe
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\bin\Debug\net8.0\MultithreadingSumOfMassive.deps.json
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\bin\Debug\net8.0\MultithreadingSumOfMassive.runtimeconfig.json
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\bin\Debug\net8.0\MultithreadingSumOfMassive.dll
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\bin\Debug\net8.0\MultithreadingSumOfMassive.pdb
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\MultithreadingSumOfMassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\MultithreadingSumOfMassive.AssemblyInfoInputs.cache
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\MultithreadingSumOfMassive.AssemblyInfo.cs
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\MultithreadingSumOfMassive.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\MultithreadingSumOfMassive.dll
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\refint\MultithreadingSumOfMassive.dll
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\MultithreadingSumOfMassive.pdb
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\MultithreadingSumOfMassive.genruntimeconfig.cache
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\MultithreadingSumOfMassive\obj\Debug\net8.0\ref\MultithreadingSumOfMassive.dll

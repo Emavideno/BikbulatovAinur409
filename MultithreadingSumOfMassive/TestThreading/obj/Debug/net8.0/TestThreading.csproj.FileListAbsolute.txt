@@ -1,0 +1,14 @@
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\bin\Debug\net8.0\TestThreading.exe
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\bin\Debug\net8.0\TestThreading.deps.json
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\bin\Debug\net8.0\TestThreading.runtimeconfig.json
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\bin\Debug\net8.0\TestThreading.dll
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\bin\Debug\net8.0\TestThreading.pdb
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\TestThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\TestThreading.AssemblyInfoInputs.cache
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\TestThreading.AssemblyInfo.cs
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\TestThreading.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\TestThreading.dll
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\refint\TestThreading.dll
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\TestThreading.pdb
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\TestThreading.genruntimeconfig.cache
+C:\Users\Fantast\source\repos\MultithreadingSumOfMassive\TestThreading\obj\Debug\net8.0\ref\TestThreading.dll
