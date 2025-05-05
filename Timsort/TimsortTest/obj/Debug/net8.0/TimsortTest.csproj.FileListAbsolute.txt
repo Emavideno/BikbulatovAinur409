@@ -1,0 +1,14 @@
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\bin\Debug\net8.0\TimsortTest.exe
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\bin\Debug\net8.0\TimsortTest.deps.json
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\bin\Debug\net8.0\TimsortTest.runtimeconfig.json
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\bin\Debug\net8.0\TimsortTest.dll
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\bin\Debug\net8.0\TimsortTest.pdb
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\TimsortTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\TimsortTest.AssemblyInfoInputs.cache
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\TimsortTest.AssemblyInfo.cs
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\TimsortTest.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\TimsortTest.dll
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\refint\TimsortTest.dll
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\TimsortTest.pdb
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\TimsortTest.genruntimeconfig.cache
+C:\Users\Fantast\source\repos\Timsort\TimsortTest\obj\Debug\net8.0\ref\TimsortTest.dll
