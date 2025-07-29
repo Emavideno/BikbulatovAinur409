@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заявка на регистрацию для мероприятия</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=TT+Positives:wght@700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            max-width: 640px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #000;
+        }
+        
+        h1 {
+            font-family: 'TT Positives', sans-serif; 
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 28px;
+            letter-spacing: 0%;
+            margin-bottom: 24px;
+            display: flex;
+            align-items: center;
+            height: 28px;
+        }
+        
+        .form-group {
+            margin-bottom: 16px;
+        }
+        
+        label {
+            display: block;
+            font-weight: 400;
+            margin-bottom: 8px;
+            color: #000;
+            font-size: 14px;
+            line-height: 20px;
+            letter-spacing: -0.6%;
+        }
+        
+        .required::after {
+            content: " *";
+            color: #000;
+        }
+        
+        input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-family: 'Inter', sans-serif;
+            box-sizing: border-box;
+        }
+        
+        .add-friend {
+            margin: 16px 0;
+        }
+        
+        .friend-fields {
+            display: none;
+            margin-top: 16px;
+            padding: 16px;
+            background-color: #f5f5f5;
+            border-radius: 8px;
+        }
+        
+        .communication-method {
+            margin: 24px 0;
+        }
+        
+        .buttons-container {
+            display: flex;
+            margin-top: 32px;
+            gap: 8px;
+        }
+        
+        .btn {
+            padding: 0;
+            border: none;
+            border-radius: 12px;
+            font-family: 'Inter', sans-serif;
+            font-weight: 500;
+            cursor: pointer;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .btn-back {
+            width: 115px;
+            height: 32px;
+            background-color: #E2E3E9;
+            color: #000;
+        }
+        
+        .btn-next {
+            width: 127px;
+            height: 32px;
+            background-color: #353949;
+            color: #fff;
+            margin-left: 8px;
+        }
+        
+        .add-friend-btn {
+            background: none;
+            border: none;
+            color: #353949;
+            font-weight: 500;
+            font-size: 14px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding: 0;
+            margin-bottom: 16px;
+        }
+        
+        .add-friend-btn::before {
+            content: "+";
+            font-size: 18px;
+        }
+        
+        input::placeholder {
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <h1>Заявка на регистрацию для мероприятия</h1>
+    
+    <form>
+        <div class="form-group">
+            <label class="required">Тип мероприятия</label>
+            <input type="text" placeholder="Выберите вид мероприятия">
+        </div>
+        
+        <div class="form-group">
+            <label class="required">ФИО</label>
+            <input type="text" placeholder="Введите ФИО">
+        </div>
+        
+        <div class="form-group">
+            <label class="required">Имейл</label>
+            <input type="email" placeholder="Введите имейл">
+        </div>
+        
+        <div class="form-group">
+            <label class="required">Номер телефона</label>
+            <input type="tel" placeholder="+7 777 77 77" pattern="\+7\s\d{3}\s\d{2}\s\d{2}">
+        </div>
+        
+        <div class="add-friend">
+            <button type="button" class="add-friend-btn" id="addFriendBtn">Добавить друга</button>
+            
+            <div id="friendFields" class="friend-fields">
+                <div class="form-group">
+                    <label>ФИО</label>
+                    <input type="text" placeholder="Введите ФИО друга">
+                </div>
+                
+                <div class="form-group">
+                    <label>Имейл</label>
+                    <input type="email" placeholder="Введите имейл друга">
+                </div>
+                
+                <div class="form-group">
+                    <label>Номер телефона</label>
+                    <input type="tel" placeholder="+7 777 77 77" pattern="\+7\s\d{3}\s\d{2}\s\d{2}">
+                </div>
+            </div>
+        </div>
+        
+        <div class="communication-method">
+            <div class="form-group">
+                <label class="required">Предпочитаемый вид связи</label>
+                <input type="text" placeholder="Введите предпочитаемый вид связи">
+            </div>
+        </div>
+        
+        <div class="buttons-container">
+            <button type="button" class="btn btn-back">Назад</button>
+            <button type="submit" class="btn btn-next">Дальше</button>
+        </div>
+    </form>
+    
+    <script>
+        let friendCount = 0;
+        const maxFriends = 3;
+        
+        document.getElementById('addFriendBtn').addEventListener('click', function() {
+            if (friendCount < maxFriends) {
+                const friendFields = document.getElementById('friendFields');
+                friendFields.style.display = 'block';
+                friendCount++;
+                
+                if (friendCount >= maxFriends) {
+                    this.style.display = 'none';
+                }
+            }
+        });
+    </script>
+</body>
+</html>
